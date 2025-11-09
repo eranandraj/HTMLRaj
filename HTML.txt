@@ -1,0 +1,62 @@
+Heading Tag: <h1> </h1> to <h6> </h6> to close the tag use "/".
+	<h1>Heading</h1>
+	<h2>Heading</h2>
+	<h3>Heading</h3>
+	<h4>Heading</h4>
+	<h5>Heading</h5>
+	<h6>Heading</h6>
+
+Paragraph Tag:
+	<p> This is a paragraph</p>
+
+Anchor Tag:
+	<a href="https://www.google.com/">Google</a>
+Tags neriya attribute vachi irukum athula <a href="https://www.google.com/"> oda attribute for 
+hyper link is "href" means "hyperlink reference" aparam athukula kodukura "https://www.google.com/" ithu the "attribute oda value".
+
+Image Tag:
+	<img src="image location" width="100px" alt="alternative text if the image doesn't load"/>
+attribute "src" means "Source", "alt" vanthu "Alternative text" ipo nama thedura image kedikalana in the "alt" kula ena eluthi irukomo athu work agum, "width" attribute vanthu image size ah set pana use agum.
+Ex: <img src="vijayimage.jpeg" alt="Vijay Image" with="100px">
+
+Break Tag:
+	<br> entha line poduromo antha line ah break pani aduthu vara tag ah next line ku move panidum.
+
+Center Tag:
+	<center>Hello</center> centre tag ah enge use panromo atha centre la kondu varum.
+
+HTML List Tag:
+Ordered List:
+	<ol>
+		<li>ONE</li>
+		<li>TWO</li>
+		<li>THREE</li>
+	</ol>
+
+Order list na 1,2,3 nu bulletin varum
+1. ONE
+2. TWO
+3. THREE
+Unordered List:
+	<ul>
+		<li>ONE</li>
+		<li>TWO</li>
+		<li>THREE</li>
+	</ul>
+
+UnOrder list na inthe mari point bulletin varum
+ONE
+TWO
+THREE
+
+bulletins ah change pana mudiyum namaku etha mari number ku bathila roman letter aparam round bulletin ku bathila triangle bulletin change panikalam.
+
+HTML iframe Tag:
+	<iframe src="https://tamilrockershd.online/home/"><iframe>
+iframe function vanthu innoru website ah name website kula konduvara mudiyum ithu tha athu oda function.
+
+HTML hr Tag:
+	<hr> tag na onume ila oru horizontal line create panum avalotha.
+
+HTML Tags:
+	To know about all tags in detail: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference or simply search "mdn web docs"
